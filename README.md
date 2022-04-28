@@ -1,5 +1,5 @@
 <b>Hi 👋 My name is Ignacio Gibbs</b><br>
-<b>Full Stack Developer</b>
+<b>Full Stack Developer👨🏽‍💻</b>
 <p>I've been learning to code for 1 year, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.</p>
 <p>🌍  I'm based in Mar del Plata, Buenos Aires, Argentina.<br>
 ✉️  You can contact me at [ignacio.gibbs@gmail.com](mailto:ignacio.gibbs@gmail.com)<br>
