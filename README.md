@@ -1,6 +1,6 @@
-### Hi there 👋
 Hi 👋 My name is Ignacio Gibbs
-==============================Backend Developer-----------------I've been learning to code for 1 year, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.* 🌍  I'm based in Mar del Plata, Buenos Aires, Argentina.* ✉️  You can contact me at [ignacio.gibbs@gmail.com](mailto:ignacio.gibbs@gmail.com)* 🧠  I'm learning NestJs and Docker.* 🤝  I'm open to collaborating on interesting projects.
+Backend Developer
+I've been learning to code for 1 year, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.* 🌍  I'm based in Mar del Plata, Buenos Aires, Argentina.* ✉️  You can contact me at [ignacio.gibbs@gmail.com](mailto:ignacio.gibbs@gmail.com)* 🧠  I'm learning NestJs and Docker.* 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
 
