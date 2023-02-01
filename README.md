@@ -1,4 +1,4 @@
-### <b>Hi 👋 My name is Ignacio Gibbs, I'm Full Stack Developer 👨🏽‍💻</b><br>
+### <b>Hi 👋 My name is Ignacio Gibbs, I'm Back End Developer 👨🏽‍💻</b><br>
 <p>I've been learning to code for 2 years, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.</p>  
   
 
