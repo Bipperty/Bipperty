@@ -1,5 +1,5 @@
 ### <b>Hi 👋 My name is Ignacio Gibbs, I'm Back End Developer 👨🏽‍💻</b><br>
-<p>I've been learning to code for 2 years, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.</p>  
+<p>I've been learning to code for 3 years, after switching careers. I started with HTML, CSS and JS, but have really found a passion for NodeJS backend development.</p>  
   
 # 💫 About Me:
 🌍 I'm based in Mar del plata, Buenos Aires, Argentina.<br>✉️ You can contact me at ignacio.gibbs@gmail.com<br>🌱 I'm learning Flutter.<br>🤝 I'm open to collaborating on interesting projects.
